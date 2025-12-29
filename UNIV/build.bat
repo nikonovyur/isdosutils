@@ -1,0 +1,1 @@
+Q:AS\as univ.asmQ:AS\link /res univ.objcalc univ.res

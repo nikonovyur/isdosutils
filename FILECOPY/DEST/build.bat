@@ -1,0 +1,1 @@
+Q:AS\as dest.asmQ:AS\link dest.objQ:RES\calc dest.com

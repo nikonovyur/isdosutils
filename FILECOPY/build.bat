@@ -1,0 +1,1 @@
+Q:AS\as /auto filecopy.asmQ:AS\as /auto fc_recd.asmQ:AS\as /auto fc_wecd.asmQ:AS\as /auto fc_subr.asmQ:AS\as /auto fc_vars.asmQ:AS\as /auto fc_intro.asmQ:AS\link /bat link.batQ:RES\calc filecopy.com

@@ -1,0 +1,1 @@
+Q:AS\as scan.asmQ:AS\link /res scan.objcalc scan.res

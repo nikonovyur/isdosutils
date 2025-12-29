@@ -1,0 +1,1 @@
+Q:AS\as ktest.asmQ:AS\link ktest.objcalc ktest.com

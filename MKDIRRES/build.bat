@@ -1,0 +1,1 @@
+Q:AS\as mkdir.asmQ:AS\link /res mkdir.objQ:RES\calc mkdir.res

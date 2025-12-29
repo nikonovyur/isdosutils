@@ -1,0 +1,1 @@
+Q:AS\as rename.asmQ:AS\link rename.objQ:RES\calc rename.com

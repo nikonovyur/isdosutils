@@ -1,0 +1,1 @@
+Q:AS\as ed128ram.asmQ:AS\link /res ed128ram.obj /out ed128ram.blkQ:RES\calc ed128ram.blk

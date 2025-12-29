@@ -1,0 +1,1 @@
+/out filecopy.comfilecopy.objfc_recd.objfc_wecd.objfc_subr.objfc_vars.objfc_intro.obj

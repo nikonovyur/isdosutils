@@ -1,0 +1,1 @@
+Q:AS\as sample.asmQ:AS\link sample.objQ:RES\calc sample.com

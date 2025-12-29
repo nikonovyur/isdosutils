@@ -1,0 +1,1 @@
+Q:AS\as ram_copy.asmQ:AS\link ram_copy.objcalc ram_copy.com

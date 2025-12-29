@@ -1,0 +1,1 @@
+Q:AS\as delete.asmQ:AS\link delete.objQ:RES\calc delete.com

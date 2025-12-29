@@ -1,0 +1,1 @@
+Q:AS\as mwin.asmQ:AS\link mwin.objQ:RES\calc mwin.com

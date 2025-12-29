@@ -1,0 +1,1 @@
+Q:AS\as netto.asmQ:AS\link netto.objcalc netto.com
