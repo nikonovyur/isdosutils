@@ -1,3 +1,3 @@
-*.asm encoding=CP866
-*.txt encoding=CP866
-*.hlp encoding=CP866
+*.asm text working-tree-encoding=CP866
+*.txt text working-tree-encoding=CP866
+*.hlp text working-tree-encoding=CP866
